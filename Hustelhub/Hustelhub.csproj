@@ -21,7 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BusinessArea\HustelHub.BusinessArea\HustelHub.BusinessArea.csproj" />
-    <ProjectReference Include="..\DataAccessLayer\HustelHub.DataAcess\HustelHub.DataAcess.csproj" />
+    <ProjectReference Include="..\DataAccessLayer\HustelHub.DataAcess\HustelHub.DataAccess.csproj" />
   </ItemGroup>
 
 </Project>

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hustelhub", "Hustelhub\Hustelhub.csproj", "{2FA10865-89EB-4381-ABEC-722D6D6F101A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hustelhub", "Hustelhub\Hustelhub.csproj", "{2FA10865-89EB-4381-ABEC-722D6D6F101A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HustelHub.DataAcess", "DataAccessLayer\HustelHub.DataAcess\HustelHub.DataAcess.csproj", "{BD9BBFE3-9CA3-454D-920A-BC03300B0A12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HustelHub.DataAccess", "DataAccessLayer\HustelHub.DataAcess\HustelHub.DataAccess.csproj", "{BD9BBFE3-9CA3-454D-920A-BC03300B0A12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HustelHub.BusinessArea", "BusinessArea\HustelHub.BusinessArea\HustelHub.BusinessArea.csproj", "{F577D8BB-1BC9-4B01-A585-B14008E50964}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HustelHub.BusinessArea", "BusinessArea\HustelHub.BusinessArea\HustelHub.BusinessArea.csproj", "{F577D8BB-1BC9-4B01-A585-B14008E50964}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
