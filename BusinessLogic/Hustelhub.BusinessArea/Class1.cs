@@ -1,4 +1,4 @@
-﻿namespace HustelHub.BusinessArea
+﻿namespace Hustelhub.BusinessArea
 {
     public class Class1
     {

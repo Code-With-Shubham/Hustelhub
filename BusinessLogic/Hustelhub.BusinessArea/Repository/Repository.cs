@@ -1,4 +1,4 @@
-﻿using HustelHub.BusinessArea.Interfaces;
+﻿using Hustelhub.BusinessArea.Interface;
 using HustelHub.DataAccess.Data;
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HustelHub.BusinessArea.Repository
+namespace Hustelhub.BusinessArea.Repository
 {
     public class Repository : IRepository
     {
@@ -18,6 +18,5 @@ namespace HustelHub.BusinessArea.Repository
             _httpClient = new HttpClient();
         }
     }
-
 
 }

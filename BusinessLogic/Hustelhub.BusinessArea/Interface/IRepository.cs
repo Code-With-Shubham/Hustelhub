@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HustelHub.BusinessArea.Interfaces
+namespace Hustelhub.BusinessArea.Interface
 {
-    public class IRepository
+    public interface IRepository
     {
     }
 }

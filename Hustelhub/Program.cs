@@ -1,5 +1,5 @@
-using HustelHub.BusinessArea.Interfaces;
-using HustelHub.BusinessArea.Repository;
+using Hustelhub.BusinessArea.Interface;
+using Hustelhub.BusinessArea.Repository;
 using HustelHub.DataAccess.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
